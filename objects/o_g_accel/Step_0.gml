@@ -1,0 +1,1 @@
+sprite_index = o_garagedisplay.carArray[o_garagedisplay.arrayplace,5]

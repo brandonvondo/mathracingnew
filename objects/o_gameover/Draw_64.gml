@@ -1,0 +1,6 @@
+draw_set_halign(fa_center)
+draw_set_font(threedBIG)
+draw_set_color(c_white)
+draw_set_alpha(Wave(0.2,0.8,2,0))
+draw_text(640,360,"PRESS ANY KEY TO CONTINUE")
+draw_set_alpha(1)

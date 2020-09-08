@@ -1,0 +1,1 @@
+audio_play_sound(GTA_V_WastedBusted___Gaming_Sound_Effect__HD_,1000,false)

@@ -1,0 +1,1 @@
+o_garagedisplay.navright = true;
