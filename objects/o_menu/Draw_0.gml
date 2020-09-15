@@ -1,6 +1,7 @@
 // Set default font
 draw_set_font(f_menu);
-
+draw_set_halign(fa_left);
+draw_set_valign(fa_top);
 // Loop through the array containing each menu element
 for(i = 0; i < array_length_1d(menu); i++)
 {

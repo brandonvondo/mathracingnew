@@ -1,23 +1,21 @@
-var i = global.checkpoint
-var aR = i+1;
+var aR = (global.checkpoint+1)
 var vX = o_levelcontroller.flagx[aR]
 var vY = o_levelcontroller.flagy[aR]
 spawnx = vX;
 spawny = vY;
-
-switch(i)
+switch(aR)
 {
 	case 1:
-	align = 1;
+	align = 2;
 	break;
 	case 2:
 	align = 1;
 	break;
 	case 3:
-	align = 2;
+	align = 1;
 	break;
 	case 4:
-	align = 1;
+	align = 2;
 	break;
 	case 5:
 	align = 1;
@@ -26,6 +24,9 @@ switch(i)
 	align = 1;
 	break;
 	case 7:
+	align = 1;
+	break;
+	case 8:
 	align = 2;
 	break;
 };

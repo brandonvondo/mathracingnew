@@ -5,6 +5,6 @@ o_math.equationprint = "";
 o_rccontroller.ismath = false
 o_rccontroller.valueassigned = false
 o_rccontroller.drawmathbar = true
-global.vdifficulty = global.vdifficulty - .15;
+global.vdifficulty = global.vdifficulty - 1;
 instance_destroy(o_answer1R)
 instance_destroy()

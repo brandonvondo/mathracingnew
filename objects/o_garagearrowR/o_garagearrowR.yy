@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "leftarrow",
-    "path": "sprites/leftarrow/leftarrow.yy",
+    "name": "s_SETTINGS_ARROW",
+    "path": "sprites/s_SETTINGS_ARROW/s_SETTINGS_ARROW.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,6 +28,8 @@
     {"isDnD":false,"eventNum":37,"eventType":10,"collisionObjectId":null,"parent":{"name":"o_garagearrowR","path":"objects/o_garagearrowR/o_garagearrowR.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"o_garagearrowR","path":"objects/o_garagearrowR/o_garagearrowR.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"o_garagearrowR","path":"objects/o_garagearrowR/o_garagearrowR.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":10,"eventType":6,"collisionObjectId":null,"parent":{"name":"o_garagearrowR","path":"objects/o_garagearrowR/o_garagearrowR.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":11,"eventType":6,"collisionObjectId":null,"parent":{"name":"o_garagearrowR","path":"objects/o_garagearrowR/o_garagearrowR.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

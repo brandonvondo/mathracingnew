@@ -13,5 +13,6 @@ endscreen = false;
 started = false;
 gasstring = global.gas;
 maxgas = global.gas;
+mathalarm = 0;
 
 

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "garage31",
-    "path": "sprites/garage31/garage31.yy",
+    "name": "s_GARAGE",
+    "path": "sprites/s_GARAGE/s_GARAGE.yy",
   },
   "solid": false,
   "visible": true,

@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"2ccb3585-0568-45c2-b913-8b6667406358","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "GarageMain",
-    "path": "folders/Sprites/Garage/GarageMain.yy",
+    "name": "menutext",
+    "path": "folders/Sprites/Garage/menutext.yy",
   },
   "resourceVersion": "1.0",
   "name": "leftarrow",

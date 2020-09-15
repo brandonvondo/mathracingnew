@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"1396b76a-c017-441e-8577-77cc64a62e3e","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "GarageMain",
-    "path": "folders/Sprites/Garage/GarageMain.yy",
+    "name": "menutext",
+    "path": "folders/Sprites/Garage/menutext.yy",
   },
   "resourceVersion": "1.0",
   "name": "settings",

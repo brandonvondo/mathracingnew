@@ -6,3 +6,5 @@ spawnx = 0;
 spawny = 0;
 align = 0;
 secstring = 0;
+flagspawn = false;
+answerflag = 1;

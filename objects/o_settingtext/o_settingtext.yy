@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "settings",
-    "path": "sprites/settings/settings.yy",
+    "name": "s_SETTINGS",
+    "path": "sprites/s_SETTINGS/s_SETTINGS.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,6 +28,8 @@
     {"isDnD":false,"eventNum":7,"eventType":6,"collisionObjectId":null,"parent":{"name":"o_settingtext","path":"objects/o_settingtext/o_settingtext.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":13,"eventType":10,"collisionObjectId":null,"parent":{"name":"o_settingtext","path":"objects/o_settingtext/o_settingtext.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":32,"eventType":9,"collisionObjectId":null,"parent":{"name":"o_settingtext","path":"objects/o_settingtext/o_settingtext.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":10,"eventType":6,"collisionObjectId":null,"parent":{"name":"o_settingtext","path":"objects/o_settingtext/o_settingtext.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":11,"eventType":6,"collisionObjectId":null,"parent":{"name":"o_settingtext","path":"objects/o_settingtext/o_settingtext.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

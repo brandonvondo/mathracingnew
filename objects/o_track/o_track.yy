@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "tracknew",
-    "path": "sprites/tracknew/tracknew.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "rightarrow",
-    "path": "sprites/rightarrow/rightarrow.yy",
+    "name": "s_GARAGE_ARROW",
+    "path": "sprites/s_GARAGE_ARROW/s_GARAGE_ARROW.yy",
   },
   "solid": false,
   "visible": true,
